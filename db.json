@@ -1,0 +1,60 @@
+{
+    "posts": [
+      { 
+         "id": "1",
+         "imageUrl": "https://assets-blog.hostgator.com.br/wp-content/uploads/2016/09/logica-de-programacao-blog.webp",
+         "imageAlt": "imagethumb-logica",
+         "title": "Lógica de Programação: Uma Jornada Fundamental", 
+         "description": "Explore os princípios essenciais da lógica de programação nesta fascinante publicação com mais de 100 linhas. Descubra como variáveis, estruturas de controle e algoritmos formam a espinha dorsal do desenvolvimento de software, capacitando você a traduzir ideias abstratas em código concreto.",
+         "category": "Tecnologia",
+         "imagePerfil": "https://s2-oglobo.glbimg.com/Hag3JEWvLvMo2dc32cQddw8aMWM=/0x0:850x572/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/d/v/kFDwF0T3q2wkwvGH0DjA/whatsapp-image-2022-10-03-at-15.34.37.jpeg",
+         "author":"Prof. Rosalia",
+         "date":"Fev 12, 2024" 
+      },
+      { 
+        "id": "2",
+        "imageUrl": "https://images.ctfassets.net/mrop88jh71hl/1GlQXrW5HeOyJwrV1VCgYo/ba5e654988b6fb5823cf72e3e189239d/html-css-coding-languages-for-kids.jpg?w=1280&h=718&fl=progressive&q=100&fm=jpg",
+        "imageAlt": "imagethumb-html",
+        "title": "HTML: A Linguagem Estrutural da Web", 
+        "description": "Embarque em uma viagem pelo HTML, a linguagem que dá estrutura à web. Com mais de 100 linhas, esta publicação abrange desde os fundamentos, como tags e atributos, até técnicas avançadas como responsividade e incorporação de mídia, mostrando como o HTML é a base para experiências online envolventes.",
+        "category": "Tecnologia",
+        "imagePerfil": "https://pics.craiyon.com/2023-05-25/5803458c86a64e39ba458c5834495f0e.webp",
+        "author":"Prof. Kairos",
+        "date":"Jan 01, 2024" 
+     },
+     { 
+        "id": "3",
+        "imageUrl": "https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png",
+        "imageAlt": "imagethumb-css",
+        "title": "CSS: Transformando Design em Realidade", 
+        "description": "Adentre o universo do CSS nesta publicação abrangente. Com exemplos práticos, descubra como o CSS não apenas estiliza páginas web, mas também cria layouts responsivos, animações envolventes e personalizações avançadas, elevando o design a novos patamares",
+        "category": "Tecnologia",
+        "imagePerfil": "https://a.storyblok.com/f/191576/1200x800/faa88c639f/round_profil_picture_before_.webp",
+        "author":"Prof. Carol",
+        "date":"Fev 08, 2024" 
+     },
+     { 
+        "id": "4",
+        "imageUrl": "https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg",
+        "imageAlt": "imagethumb-js",
+        "title": "JavaScript: Dinamismo e Interatividade na Web", 
+        "description": "Navegue pelo fascinante mundo do JavaScript nesta exploração que ultrapassa 100 linhas. Aprenda sobre variáveis, funções, manipulação do DOM e descubra como o JavaScript torna as páginas web dinâmicas, interativas e repletas de funcionalidades.",
+        "category": "Tecnologia",
+        "imagePerfil": "https://homemalpha.com.br/wp-content/uploads/2022/06/Foto-Masculina-no-Perfil-min.jpg",
+        "author":"Prof. Arthur",
+        "date":"Jan 23, 2024" 
+     },
+     { 
+        "id": "5",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgRvYuBnLWr2eDglro30Ajb_3GgQV91VOuA&usqp=CAU",
+        "imageAlt": "imagethumb-es6+",
+        "title": "ES6+: Avançando na Evolução do JavaScript", 
+        "description": "Descubra as melhorias trazidas pelo ES6+ em JavaScript nesta publicação envolvente. Com recursos como arrow functions, classes, promessas e mais, entenda como o ES6+ moderniza a linguagem, proporcionando uma codificação mais eficiente e expressiva.",
+        "category": "Tecnologia",
+        "imagePerfil": "https://i.pinimg.com/originals/36/d7/da/36d7da40495e850ef331b8338a0e62d2.jpg",
+        "author":"Prof. Maurizi",
+        "date":"Jan 31, 2024" 
+     }
+     
+    ]
+}
